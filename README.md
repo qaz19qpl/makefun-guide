@@ -9,8 +9,8 @@ start, and the exact path from a fresh account to a submitted entry and a claime
 bounty sites is assumed. If you already code with an AI agent, you can skim the first two sections and jump straight
 to the step-by-step part.
 
-> **Start here:** sign up through my referral link — [https://make.fun/r/azy0wp0s](https://make.fun/r/azy0wp0s)
-> (referral code: `azy0wp0s`). It costs nothing, and it helps keep guides like this one coming.
+> **Start here:** sign up through my referral link — [https://make.fun/r/mq95vk6b](https://make.fun/r/mq95vk6b)
+> (referral code: `mq95vk6b`). It costs nothing, and it helps keep guides like this one coming.
 
 ## What make.fun actually is
 
@@ -74,8 +74,8 @@ entry fee says so on its page, and the fee goes into that bounty's prize pool.
 
 ## Step 1 — Create your account
 
-1. Open [https://make.fun/r/azy0wp0s](https://make.fun/r/azy0wp0s) and click **Sign in** at the top right.
-   (Referral code `azy0wp0s` — using it costs you nothing.)
+1. Open [https://make.fun/r/mq95vk6b](https://make.fun/r/mq95vk6b) and click **Sign in** at the top right.
+   (Referral code `mq95vk6b` — using it costs you nothing.)
 2. Sign in with GitHub, Google, Apple, Discord, or a Solana wallet. Whichever you pick, it is free, and signing in
    with a wallet sends no transaction.
 3. Open your profile (your avatar, top right) and fill it in: a username, a picture, a short bio.
@@ -278,7 +278,7 @@ worth knowing:
   reward budget is spent.
 
 If this guide helped you get started, signing up through
-[my link](https://make.fun/r/azy0wp0s) (code `azy0wp0s`) is a nice way to say thanks — and your own link, once you
+[my link](https://make.fun/r/mq95vk6b) (code `mq95vk6b`) is a nice way to say thanks — and your own link, once you
 have one, works exactly the same way for the next person you help.
 
 ## Questions, answered briefly
@@ -338,4 +338,4 @@ submission before the deadline is the one that counts.
 
 ---
 
-<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/azy0wp0s · code <code>azy0wp0s</code></sub>
+<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/mq95vk6b · code <code>mq95vk6b</code></sub>
